@@ -3,65 +3,52 @@ Notes E+C 1208
 
 > by Jason Bedford
 
-Presentaiton from Richard Sallari Manolis Kellis Lab MIT & Broad.
+Presentation from Richard Sallari, Manolis Kellis Lab MIT & Broad.
 
 ### Slide 2
-we see a nice visual explaning the varius annotiaotn that are being intrgratied here
 
+We see a nice visual explaining the various annotation that are being integrated here.
 
 ### Slide 3
-So why use this many annotiations? often "patters" with strong biological "signal" has a weak genomics "signal"
 
-So what we see here in this matric is an example of a possible bioligical signal 
-that has a weak genimc signal.
+So why use this many annotations? often "patters" with strong biological "signal" has a weak genomic "signal".
 
+So what we see here in this matrix is an example of a possible biological signal 
+that has a weak genomic signal.
 
 ### Slide 4
 
-so these are some nice papers repotting some nice data sets that we;re using here
-
+So these are some nice papers repotting some nice data sets that we're using here
 
 ### Slide 5
 
-we still need info about the chromitin states. 
+we still need info about the chromatin states. 
 
-open chromitin is kept seperate.
+open chromatin is kept separate because of its diverse function
 
-becuase of it;s diverse funciotion
-
-we se that open chro has low mut reate (muts are fixed)
-and that repressed and possied elms has hight mut rate
+we see that open chro has low mut rate (muts are fixed) and that repressed and poised elms has high mut rate
 
 
 ### Slide 6
 
-regional heterogenity
-it;s important to et an idea of the back group muiaton reate. 
-
+regional heterogeneity and the idea of a background mutational model 
 
 
 ### Slide 8
 
-pelexus and tiles and stuff and wht the fffffff
+number of tiles in each annotation categories
 
-
-number of tiles in each annotation catirogires
-
-large number of tiels in a reions implies that that regio is hetero chromiatics. 
+large number of tiles in a regions implies that that region is hetero chromatic. 
 
 
 ### Slide 9
 
-so how do we permutaiton test. we do it by perumting hte pleis (plural?)
-
+so how do we permutation test. we do it by permuting the pleis (plural?)
 
 
 ### Slide 10
 
-
-all pleisis in a chrmistate 
-
-
+all plessis in a chrmistate 
 
 ### Slide 11
 
@@ -69,19 +56,14 @@ p-values are BH corrected
 
 ### Slide 12-13-14
 
-some really pritty picutres
-
+Nice visualizations
 
 ### Slide 17
 
-convergnce at the gene and pathway leven. 
+We see convergence at the gene and pathway leven. 
 
-so the quesiton remints after all fo the rigamorole are we finding stuff that is know 
-to be incoled in cancer?
+so the question remains after all of the rigamarole are we finding stuff that is know 
+to be involved in cancer? answer is yeah.
 
-answer is yeah.
-
-6 of the gene are connected to angrogen signalling (prostate imprattan)
-
-
+6 of the gene are connected to androgen signalling (prostate imprattan)
 
